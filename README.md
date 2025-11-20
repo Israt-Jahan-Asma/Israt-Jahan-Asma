@@ -1,22 +1,21 @@
 
-<img width="1600" height="800" alt="Israt Jahan Asma Banner" src="https://i.postimg.cc/ydstDYHY/You-Tube-Banner-Hi-I-m-Israt-(1).png" />
+<img width="1600" height="800" alt="Israt Jahan Asma Banner" src="https://i.postimg.cc/vTND0SYw/Israt-Jahan-Asma-Git-Banner.png" />
 
 ###
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+There%2C+This+is+Israt+Jahan+Asma)](https://git.io/typing-svg)
 
 ## 💫 About Me:
-<p>I'm a passionate Web Developer specializing in WordPress, Wix, Shopify, and Framer CMS/Builder & MARN Stack Developer. I love transforming ideas into high‑performing, visually appealing, and scalable websites.</p>
+<p>I'm a passionate Web Developer specializing in WordPress, Wix, Shopify, and Framer CMS/Builder, along with growing expertise in the MERN Stack. I build websites that are visually appealing, SEO-friendly, and optimized for performance and growth.</p>
 
 Currently I’m:
 - Exploring React for advanced frontend development.
-- I'm looking to collaborate on react projects.
-- Feel free to ping me on <a href='https://www.linkedin.com/in/isratjahanasma/'> LinkedIn </a>
-- Check out my <a href='https://drive.google.com/file/d/1FlTC9jM6c1t28Ce7y54OklYxyR9OSqou/view?usp=sharing'> CV </a>
-- Working on multiple countres for CMS Development.
+- Looking to collaborate on React-based projects.
+- Open to connections — feel free to reach out on <a href='https://www.linkedin.com/in/isratjahanasma/'> LinkedIn </a>
+- Showcasing my experience — check out my <a href='https://drive.google.com/file/d/1FlTC9jM6c1t28Ce7y54OklYxyR9OSqou/view?usp=sharing'> CV </a>
+- Working with clients across multiple countries on CMS development.
 - Migrating several client websites from Wix to WordPress.
-- Learning new skills to stay competitive in the future such as Js, React, MongoDB JWT.
-
-
+- Learning new skills to stay competitive, including JavaScript, React, MongoDB, and JWT authentication.
+  
 
 
 ## 🌐 Socials:
