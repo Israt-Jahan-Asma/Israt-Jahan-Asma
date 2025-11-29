@@ -11,7 +11,7 @@ Currently I’m:
 - Exploring React for advanced frontend development.
 - Looking to collaborate on React-based projects.
 - Open to connections — feel free to reach out on <a href='https://www.linkedin.com/in/isratjahanasma/'> LinkedIn </a>
-- Showcasing my experience — check out my <a href='https://drive.google.com/file/d/1FlTC9jM6c1t28Ce7y54OklYxyR9OSqou/view?usp=sharing'> CV </a>
+- Showcasing my experience — check out my <a href='https://drive.google.com/file/d/15zd7xAQy9rBLoUwhjGDPuszQIXpksGW3/view?usp=sharing'> resume </a>
 - Working with clients across multiple countries on CMS development.
 - Migrating several client websites from Wix to WordPress.
 - Learning new skills to stay competitive, including JavaScript, React, MongoDB, and JWT authentication.
