@@ -26,13 +26,13 @@ Currently I’m:
 ###
 
 ## ⚡ Stats ⚡
-<div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=Israt-Jahan-Asma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Israt-Jahan-Asma&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Israt-Jahan-Asma&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Israt-Jahan-Asma&theme=aura&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Israt-Jahan-Asma&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Israt-Jahan-Asma&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-###
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=israt-jahan-asma&icon=0&color=0)](https://visitcount.itsvg.in)
